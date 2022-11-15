@@ -1,0 +1,336 @@
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\appsettings.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.exe
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.deps.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.runtimeconfig.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.pdb
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\AutoMapper.EF6.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\DelegateDecompiler.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\DelegateDecompiler.EntityFramework.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\MailKit.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\MimeKit.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Mono.Reflection.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.Postgresql.Alternative.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.Core.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.AssemblyReference.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.AssemblyInfoInputs.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.AssemblyInfo.cs
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.CoreCompileInputs.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\scopedcss\bundle\Igor_AIS_Proj.styles.css
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.CopyComplete
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\refint\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.pdb
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.genruntimeconfig.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\FellexBusiness\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\ref\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\appsettings.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.exe
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.deps.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.runtimeconfig.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.pdb
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\AutoMapper.EF6.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\DelegateDecompiler.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\DelegateDecompiler.EntityFramework.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\MailKit.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\MimeKit.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Mono.Reflection.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.Postgresql.Alternative.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.Core.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.AssemblyReference.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.AssemblyInfoInputs.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.AssemblyInfo.cs
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.CoreCompileInputs.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\scopedcss\bundle\Igor_AIS_Proj.styles.css
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.CopyComplete
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\refint\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.pdb
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.genruntimeconfig.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\API AZURE\AIS_Proj\Igor_AIS_Proj\Igor_AIS_Proj\obj\Debug\net6.0\ref\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\appsettings.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.exe
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.deps.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.runtimeconfig.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Igor_AIS_Proj.pdb
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\AutoMapper.EF6.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Confluent.Kafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\DelegateDecompiler.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\DelegateDecompiler.EntityFramework.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Humanizer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\IdentityModel.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\MailKit.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Web.Http.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\MimeKit.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Mono.Reflection.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Serilog.Sinks.Postgresql.Alternative.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\Swashbuckle.Core.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-arm64\native\librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\alpine-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\centos6-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\centos7-librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\linux-x64\native\librdkafka.so
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\osx-arm64\native\librdkafka.dylib
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\osx-x64\native\librdkafka.dylib
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libcrypto-1_1-x64.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libcurl.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\librdkafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\librdkafkacpp.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\libssl-1_1-x64.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\msvcp140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\vcruntime140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\zlib1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\zstd.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libcrypto-1_1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libcurl.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\librdkafka.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\librdkafkacpp.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\libssl-1_1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\msvcp140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\vcruntime140.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\zlib1.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\zstd.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.AssemblyReference.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.AssemblyInfoInputs.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.AssemblyInfo.cs
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.CoreCompileInputs.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\scopedcss\bundle\Igor_AIS_Proj.styles.css
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.csproj.CopyComplete
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\refint\Igor_AIS_Proj.dll
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.pdb
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\Igor_AIS_Proj.genruntimeconfig.cache
+C:\Users\ifelixno\OneDrive - NTT DATA EMEAL\Documentos\GitHub\OnlyAPI\Igor_AIS_Proj\obj\Debug\net6.0\ref\Igor_AIS_Proj.dll
