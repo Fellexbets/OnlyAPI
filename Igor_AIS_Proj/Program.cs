@@ -49,6 +49,8 @@ builder.Services.AddSingleton<IMailNotificationUseCase, MailNotificationUseCase>
 builder.Logging.ClearProviders();
 builder.Logging.AddConsole();
 
+
+
 builder.Services.AddSwaggerGen(options =>
 {
     options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
