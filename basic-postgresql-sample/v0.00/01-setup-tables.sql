@@ -10,6 +10,20 @@ DROP TABLE IF EXISTS accounts;
 DROP TABLE IF EXISTS users;
 
 
+CREATE TABLE public.users (
+	userid int4 NOT NULL GENERATED ALWAYS AS IDENTITY,
+	created_at timestamptz NULL DEFAULT now(),
+	email varchar(50) NOT NULL,
+	username varchar(25) NOT NULL,
+	userpassword varchar(50) NOT NULL,
+	passwordsalt varchar(250) NULL,
+	usertoken varchar(600) NULL,
+	updatedat timestamptz NULL DEFAULT now(),
+	fullname varchar(50) NULL,
+	CONSTRAINT users_email_key UNIQUE (email),
+	CONSTRAINT users_pkey PRIMARY KEY (userid),
+	CONSTRAINT users_username_key UNIQUE (username)
+);
 -- public.accounts definition
 
 -- Drop table
@@ -123,20 +137,6 @@ ALTER TABLE public.uploads ADD CONSTRAINT fk_userid_upload FOREIGN KEY (userid) 
 
 -- DROP TABLE public.users;
 
-CREATE TABLE public.users (
-	userid int4 NOT NULL GENERATED ALWAYS AS IDENTITY,
-	created_at timestamptz NULL DEFAULT now(),
-	email varchar(50) NOT NULL,
-	username varchar(25) NOT NULL,
-	userpassword varchar(50) NOT NULL,
-	passwordsalt varchar(250) NULL,
-	usertoken varchar(600) NULL,
-	updatedat timestamptz NULL DEFAULT now(),
-	fullname varchar(50) NULL,
-	CONSTRAINT users_email_key UNIQUE (email),
-	CONSTRAINT users_pkey PRIMARY KEY (userid),
-	CONSTRAINT users_username_key UNIQUE (username)
-);
 
 -- Table Triggers
 
