@@ -1,3 +1,13 @@
+
+DROP TABLE IF EXISTS __yuniql_schema_version;
+DROP TABLE IF EXISTS users;
+DROP TABLE IF EXISTS accounts;
+DROP TABLE IF EXISTS movements;
+DROP TABLE IF EXISTS uploads;
+DROP TABLE IF EXISTS sessions;
+DROP TABLE IF EXISTS transfers;
+
+
 -- public.accounts definition
 
 -- Drop table
