@@ -1,6 +1,4 @@
 
-DROP TABLE IF EXISTS __yuniql_schema_version;
-
 
 DROP TABLE IF EXISTS movements;
 DROP TABLE IF EXISTS uploads;
